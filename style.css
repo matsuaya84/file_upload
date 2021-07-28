@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 15px;
+  margin: 0 auto;
+  width: 70%;
+}
+form {
+  margin-bottom: 40px;
+}
+textarea {
+  width: 98%;
+  height: 60px;
+}
+h1 {
+  margin: 10px 0px 20px;
+}
+.file-up {
+  margin-bottom: 10px;
+}
+.caption {
+  margin-top: 10px;
+}
+.submit {
+  text-align: right;
+}
+.btn {
+  display: inline-block;
+  border-radius: 3px;
+  font-size: 18px;
+  background: #67c5ff;
+  border: 2px solid #67c5ff;
+  padding: 5px 10px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.box {
+  display: inline-block;
+  margin: 10px;
+}
+.box p {
+  padding-top: 10px;
+}
+.photo{
+  display: block;
+  width: 300px;
+}
